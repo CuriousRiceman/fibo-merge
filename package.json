@@ -3,6 +3,7 @@
     "nodemon": "^3.1.0"
   },
   "scripts": {
-    "fibo": "npx nodemon fibonacci.js"
+    "fibo": "npx nodemon fibonacci.js",
+    "merge": "npx nodemon merge.js"
   }
 }
